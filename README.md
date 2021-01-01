@@ -1,6 +1,6 @@
 # A-Generative-Neural-Network-for-Neutrino-Physics
 A Generative Neural Network for Neutrino Physics-Water Cherenkov Reconstruction
-We are exploring an alternative approach to the more traditional “end-to-end” CNN
+* We are exploring an alternative approach to the more traditional “end-to-end” CNN
 event classification for reconstruction of water Cherenkov events
 
 ## Our group presented at Neutrino Physics and Machine Learning Workshop July 24 2020
